@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 0
 1 necktie edit this.
+=======
+０ですよ！
+1 necktie write this yay!
+>>>>>>> 3d7817275d6fab911e8a8fa83a4cbca56956ab3c
 2
 3
 4
